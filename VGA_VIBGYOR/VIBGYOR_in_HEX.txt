@@ -1,0 +1,26 @@
+            24-bit     12-bit
+             RGB         RGB
+
+Violet	9400D3	 90D	
+Indigo	4B0082       408 
+Blue		0000FF       00F
+Green		00FF00       0F0      
+
+Yellow	FFFF00       FF0
+Orange	FF7F00       F70
+Red		FF0000       F00
+
+Aqua marine 7FFFD4  
+Gold        FFD700
+sea green   2E8B57
+khaki       F0E68C
+Purple      A020F0
+
+
+
+To convert 24-bit image to 12-bit image, divide each color by 16
+
+ or
+
+Take only the MSN of each color
+
